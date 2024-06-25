@@ -1,0 +1,35 @@
+# Dependency directories
+node_modules/
+
+# Production build
+build/
+dist/
+*.css
+
+# Log files
+*.log
+
+# IDE files
+.DS_Store
+.idea/
+.vscode/
+
+# Environment file
+.env
+
+# Yarn lock file
+yarn.lock
+
+# npm debug log
+npm-debug.log*
+
+# Editor directories and files
+*.swp
+*.swo
+*.sublime-workspace
+
+# Jest coverage
+coverage/
+
+# Firebase
+firebase.json
